@@ -10,7 +10,7 @@ sites:
     
   - name: TSK
     url: https://www.tsk.tr
-    icon: https://www.tsk.tr/Content/img/mobil_index/logo_baslik.png
+    icon: https://www.kkk.tsk.tr/img/linkler/genelkurmay.png
     headers:
     - "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36"
     __dangerous__insecure: true
