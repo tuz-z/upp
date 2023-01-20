@@ -24,15 +24,16 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: UP or DOWN
-  introTitle: "**Upptime** Çalış artık!!"
-  introMessage: Test aşamasında... Day "#1" #This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Upptime** "
+  introMessage: Test aşamasında... Day 1 #This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
     #- title: GitHub
       #href: https://github.com/$OWNER/$REPO
   workflowSchedule:
-  graphs: "*/10 0 * * *"
+  graphs: "*/10 * * * *"
+  summary: "*/10 * * * *"
   uptime: "*/5 * * * *"
  
   
