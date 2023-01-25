@@ -4,19 +4,19 @@
     "url": "https://www.kkk.tsk.tr",
     "icon": "https://icons.duckduckgo.com/ip3/www.kkk.tsk.tr.ico",
     "slug": "kkk",
-    "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1203,
     "timeDay": 1139,
     "timeWeek": 1203,
     "timeMonth": 1203,
     "timeYear": 1203,
     "dailyMinutesDown": {
-      "2023-01-25": 5
+      "2023-01-25": 0
     }
   },
   {
@@ -24,7 +24,7 @@
     "url": "https://www.tsk.tr",
     "icon": "https://www.kkk.tsk.tr/img/linkler/genelkurmay.png",
     "slug": "tsk",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,6 +35,8 @@
     "timeWeek": 1016,
     "timeMonth": 1016,
     "timeYear": 1016,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   }
 ]
