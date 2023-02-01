@@ -4,7 +4,7 @@
     "url": "https://www.kkk.tsk.tr",
     "icon": "https://icons.duckduckgo.com/ip3/www.kkk.tsk.tr.ico",
     "slug": "kkk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.62%",
@@ -16,6 +16,7 @@
     "timeMonth": 1191,
     "timeYear": 1191,
     "dailyMinutesDown": {
+      "2023-02-01": 0,
       "2023-01-25": 38
     }
   },
@@ -25,11 +26,11 @@
     "icon": "https://www.kkk.tsk.tr/img/linkler/genelkurmay.png",
     "slug": "tsk",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "uptimeMonth": "99.79%",
+    "uptimeYear": "99.79%",
     "time": 1034,
     "timeDay": 804,
     "timeWeek": 1061,
