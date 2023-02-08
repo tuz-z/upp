@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
-    "time": 2678,
-    "timeDay": 1164,
-    "timeWeek": 5044,
-    "timeMonth": 2678,
-    "timeYear": 2678,
+    "time": 2648,
+    "timeDay": 1463,
+    "timeWeek": 5076,
+    "timeMonth": 2648,
+    "timeYear": 2648,
     "dailyMinutesDown": {
       "2023-01-25": 38
     }
@@ -25,18 +25,17 @@
     "icon": "https://www.kkk.tsk.tr/img/linkler/genelkurmay.png",
     "slug": "tsk",
     "status": "up",
-    "uptime": "99.84%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.84%",
-    "time": 1016,
-    "timeDay": 909,
-    "timeWeek": 939,
-    "timeMonth": 1016,
-    "timeYear": 1016,
+    "uptime": "99.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 1021,
+    "timeDay": 998,
+    "timeWeek": 986,
+    "timeMonth": 1021,
+    "timeYear": 1021,
     "dailyMinutesDown": {
-      "2023-02-07": 5,
       "2023-01-25": 38
     }
   }
