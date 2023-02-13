@@ -6,16 +6,17 @@
     "slug": "kkk",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.51%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.75%",
     "time": 2924,
-    "timeDay": 1325,
+    "timeDay": 1433,
     "timeWeek": 3706,
     "timeMonth": 2924,
     "timeYear": 2924,
     "dailyMinutesDown": {
+      "2023-02-13": 0,
       "2023-02-09": 49,
       "2023-01-25": 38
     }
