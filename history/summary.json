@@ -16,7 +16,7 @@
     "timeMonth": 2185,
     "timeYear": 3039,
     "dailyMinutesDown": {
-      "2023-10-06": 768,
+      "2023-10-06": 814,
       "2023-10-05": 1440,
       "2023-10-04": 1440,
       "2023-10-03": 1440,
@@ -199,7 +199,7 @@
     "url": "https://www.tsk.tr",
     "icon": "https://www.kkk.tsk.tr/img/linkler/genelkurmay.png",
     "slug": "tsk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
     "uptimeDay": "96.71%",
     "uptimeWeek": "99.53%",
