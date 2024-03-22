@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kkk.tsk.tr.ico",
     "slug": "kkk",
     "status": "up",
-    "uptime": "25.20%",
+    "uptime": "25.21%",
     "uptimeDay": "98.90%",
     "uptimeWeek": "99.66%",
-    "uptimeMonth": "71.99%",
-    "uptimeYear": "17.57%",
+    "uptimeMonth": "72.19%",
+    "uptimeYear": "17.58%",
     "time": 2622,
     "timeDay": 1465,
     "timeWeek": 1636,
@@ -318,8 +318,7 @@
       "2023-03-27": 1440,
       "2023-03-26": 1440,
       "2023-03-25": 1440,
-      "2023-03-24": 1440,
-      "2023-03-23": 1440
+      "2023-03-24": 1440
     }
   },
   {
@@ -328,10 +327,10 @@
     "icon": "https://www.kkk.tsk.tr/img/linkler/genelkurmay.png",
     "slug": "tsk",
     "status": "up",
-    "uptime": "99.94%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.86%",
+    "uptime": "99.95%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.94%",
     "time": 1522,
     "timeDay": 3330,
@@ -339,7 +338,6 @@
     "timeMonth": 1369,
     "timeYear": 1614,
     "dailyMinutesDown": {
-      "2024-03-21": 10,
       "2024-03-14": 50,
       "2024-01-09": 22,
       "2023-11-23": 16,
