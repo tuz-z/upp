@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kkk.tsk.tr.ico",
     "slug": "kkk",
     "status": "up",
-    "uptime": "39.89%",
+    "uptime": "40.00%",
     "uptimeDay": "98.30%",
     "uptimeWeek": "97.86%",
     "uptimeMonth": "95.03%",
-    "uptimeYear": "34.23%",
-    "time": 4337,
-    "timeDay": 1798,
-    "timeWeek": 2364,
-    "timeMonth": 5401,
-    "timeYear": 4362,
+    "uptimeYear": "34.50%",
+    "time": 4338,
+    "timeDay": 1674,
+    "timeWeek": 2365,
+    "timeMonth": 5400,
+    "timeYear": 4356,
     "dailyMinutesDown": {
       "2024-07-07": 24,
       "2024-07-03": 191,
@@ -269,8 +269,7 @@
       "2023-07-13": 1440,
       "2023-07-12": 1440,
       "2023-07-11": 1440,
-      "2023-07-10": 1440,
-      "2023-07-09": 1440
+      "2023-07-10": 1440
     }
   },
   {
@@ -285,9 +284,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1475,
-    "timeDay": 1281,
-    "timeWeek": 1138,
-    "timeMonth": 1076,
+    "timeDay": 1251,
+    "timeWeek": 1127,
+    "timeMonth": 1072,
     "timeYear": 1605,
     "dailyMinutesDown": {
       "2024-03-14": 50,
