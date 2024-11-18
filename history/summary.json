@@ -4,7 +4,7 @@
     "url": "https://www.kkk.tsk.tr",
     "icon": "https://icons.duckduckgo.com/ip3/www.kkk.tsk.tr.ico",
     "slug": "kkk",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
     "uptimeDay": "91.85%",
     "uptimeWeek": "98.84%",
@@ -37,8 +37,7 @@
       "2024-06-16": 21,
       "2024-06-12": 15,
       "2024-05-30": 40,
-      "2024-03-28": 18,
-      "2024-03-27": 23
+      "2024-03-28": 18
     }
   },
   {
