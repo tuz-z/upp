@@ -6,17 +6,17 @@
     "slug": "kkk",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "95.70%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "98.51%",
-    "uptimeYear": "99.32%",
+    "uptimeDay": "96.02%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "98.70%",
+    "uptimeYear": "99.31%",
     "time": 4550,
     "timeDay": 8883,
     "timeWeek": 9079,
-    "timeMonth": 7788,
+    "timeMonth": 7869,
     "timeYear": 4550,
     "dailyMinutesDown": {
-      "2025-01-31": 63,
+      "2025-01-31": 58,
       "2025-01-24": 16,
       "2025-01-23": 69,
       "2025-01-01": 455,
@@ -43,7 +43,7 @@
       "2024-06-21": 322,
       "2024-06-20": 285,
       "2024-06-19": 191,
-      "2024-06-18": 134
+      "2024-06-18": 159
     }
   },
   {
@@ -61,7 +61,7 @@
     "timeDay": 1143,
     "timeWeek": 1253,
     "timeMonth": 1114,
-    "timeYear": 1262,
+    "timeYear": 1257,
     "dailyMinutesDown": {
       "2024-11-18": 41,
       "2024-11-12": 105,
