@@ -4,18 +4,19 @@
     "url": "https://www.kkk.tsk.tr",
     "icon": "https://icons.duckduckgo.com/ip3/www.kkk.tsk.tr.ico",
     "slug": "kkk",
-    "status": "up",
-    "uptime": "99.64%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.65%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.96%",
     "uptimeYear": "99.26%",
     "time": 4682,
     "timeDay": 5751,
-    "timeWeek": 5800,
+    "timeWeek": 5556,
     "timeMonth": 9494,
     "timeYear": 4682,
     "dailyMinutesDown": {
+      "2025-02-19": 0,
       "2025-02-11": 311,
       "2025-01-31": 58,
       "2025-01-24": 16,
@@ -44,7 +45,7 @@
       "2024-06-21": 322,
       "2024-06-20": 285,
       "2024-06-19": 191,
-      "2024-06-18": 134
+      "2024-06-18": 110
     }
   },
   {
